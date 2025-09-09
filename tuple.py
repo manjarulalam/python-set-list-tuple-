@@ -1,0 +1,6 @@
+mytup = ('Chandpur','Dhaka','Cumilla')
+print(mytup)
+print(type(mytup))
+tup1 = (11,12,14,17,18)
+tup2 = ('Chandpur','Dhaka','Cumilla')
+tup3 = (True, False, False)
